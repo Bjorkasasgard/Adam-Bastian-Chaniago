@@ -1,2 +1,2 @@
-# Adam-Bastian-Chaniago
-My github profile
+![Adam Bastian Chaniago](img/githubH_1.gif)
+
